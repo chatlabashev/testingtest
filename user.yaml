@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Mihail Chatlabashev
+  name: Mihail.Chatlabashev
 spec:
   memberOf: [guests]
   profile:
@@ -11,7 +11,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Veselin Todorov
+  name: Veselin.Todorov
 spec:
   memberOf: [guests]
   profile:
@@ -21,7 +21,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Yuliyan Serbezki
+  name: Yuliyan.Serbezki
 spec:
   memberOf: [guests]
   profile:
@@ -31,7 +31,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Alex Potter-Dixon
+  name: Alex.Potter.Dixon
 spec:
   memberOf: [guests]
   profile:
