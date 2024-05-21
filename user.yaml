@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Mihail.Chatlabashev
+spec:
+  memberOf: [guests]
+  profile:
+    email: mihail.chatlabashev@pharmalex.com
