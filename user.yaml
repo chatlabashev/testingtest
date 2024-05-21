@@ -1,8 +1,38 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: Mihail.Chatlabashev
+  name: Mihail Chatlabashev
 spec:
   memberOf: [guests]
   profile:
     email: Mihail.Chatlabashev@pharmalex.com
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Veselin Todorov
+spec:
+  memberOf: [guests]
+  profile:
+    email: veselin.todorov@pharmalex.com
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Yuliyan Serbezki
+spec:
+  memberOf: [guests]
+  profile:
+    email: yuliyan.serbezki@pharmalex.com
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Alex Potter-Dixon
+spec:
+  memberOf: [guests]
+  profile:
+    email: apotter-dixon@phlexglobal.com
